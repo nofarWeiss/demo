@@ -1,14 +1,102 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+  {
+    'id': 'img_1',
+    'title': 'title',
+    'url': 'https://albums.com/photos/1'
+  },
+  {
+    'id': 'img_2',
+    'title': 'title',
+    'url': 'https://albums.com/photos/2'
+  },
+  {
+    'id': 'img_3',
+    'title': 'title',
+    'url': 'https://albums.com/photos/3'
+  },
+  {
+    'id': 'img_4',
+    'title': 'title',
+    'url': 'https://albums.com/photos/4'
+  },
+  {
+    'id': 'img_5',
+    'title': 'title',
+    'url': 'https://albums.com/photos/5'
+  },
+  {
+    'id': 'img_6',
+    'title': 'title',
+    'url': 'https://albums.com/photos/6'
+  },
+  {
+    'id': 'img_7',
+    'title': 'title',
+    'url': 'https://albums.com/photos/7'
+  },
+  {
+    'id': 'img_8',
+    'title': 'title',
+    'url': 'https://albums.com/photos/8'
+  },
+  {
+    'id': 'img_9',
+    'title': 'title',
+    'url': 'https://albums.com/photos/9'
+  },
+  {
+    'id': 'img_10',
+    'title': 'title',
+    'url': 'https://albums.com/photos/10'
+  },
+  {
+    'id': 'img_11',
+    'title': 'title',
+    'url': 'https://albums.com/photos/11'
+  },
+  {
+    'id': 'img_12',
+    'title': 'title',
+    'url': 'https://albums.com/photos/12'
+  },
+  {
+    'id': 'img_13',
+    'title': 'title',
+    'url': 'https://albums.com/photos/13'
+  },
+  {
+    'id': 'img_14',
+    'title': 'title',
+    'url': 'https://albums.com/photos/14'
+  },
+  {
+    'id': 'img_15',
+    'title': 'title',
+    'url': 'https://albums.com/photos/15'
+  },
+  {
+    'id': 'img_16',
+    'title': 'title',
+    'url': 'https://albums.com/photos/16'
+  },
+  {
+    'id': 'img_17',
+    'title': 'title',
+    'url': 'https://albums.com/photos/17'
+  },
+  {
+    'id': 'img_18',
+    'title': 'title',
+    'url': 'https://albums.com/photos/18'
+  },
+  {
+    'id': 'img_19',
+    'title': 'title',
+    'url': 'https://albums.com/photos/19'
+  },
+  {
+    'id': 'img_20',
+    'title': 'title',
+    'url': 'https://albums.com/photos/20'
+  },
+]
